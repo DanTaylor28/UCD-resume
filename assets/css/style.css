@@ -370,6 +370,10 @@ button[type='submit'] {
     background-color: #e84610;
 }
 
+/* ----------------------------------------Google Map */
+
+div#map {min-height: 400px;}
+
 /* ----------------------------------------Media Queries */
 
 @media(min-width: 992px) {
